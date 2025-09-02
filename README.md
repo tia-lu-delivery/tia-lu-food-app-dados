@@ -89,7 +89,7 @@ O sistema permite:
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3.x**  
-- Estruturas de dados nativas (`list`, `dict`, `queue`)  
+- Estruturas de dados nativas (`list`, `queue`)  
 - Menu interativo no terminal  
 
 ---
