@@ -1,4 +1,4 @@
-# 🍔 Sistema de Gerenciamento de Pedidos (Python)
+# 🍔 Sistema de Gerenciamento de Pedidos
 
 ## 👥 Equipe
 - Membro 1: __________________
